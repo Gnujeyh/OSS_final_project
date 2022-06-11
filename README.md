@@ -3,6 +3,7 @@
 
 3 MINI GAMES
 I developed three console games using C language:)
+
 Introduction video: https://youtu.be/SWVSV8n4mrU
 
 # When can I use it?
@@ -22,8 +23,10 @@ $ ./menu
 
 # If you want help?
 You can send me email!
+
 21900030@handong.ac.kr
 
 # References
 https://blockdmask.tistory.com/344
+
 https://jaimemin.tistory.com/204
